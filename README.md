@@ -11,6 +11,8 @@ The repository is organized as follows:
 - `topics_visializations_N-V-A-A`: wordcloud visualizations of all the topics from the chosen topic model
 - `texts_lemmatized_N-V-A-A.txt`: input dataset represented as lemmatized samples
 - `text_IDs_N-V-A-A.txt`: sample labels for the above file with text samples
+- `train_topic_models.md`: code needed to replicate the study: training the topics
+- `shap_for_BR_TM.md`: code needed to replicate the study: classification
 - `README.md`: the current file
 
 
